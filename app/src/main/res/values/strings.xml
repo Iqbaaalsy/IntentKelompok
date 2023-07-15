@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentKelompok</string>
+    <string name="edittext_url">https://www.dicoding.com/blog/belajar-intent-android-studio/</string>
+    <string name="button_url">Open Website</string>
+    <string name="edittext_share">belajar intent implicit</string>
+    <string name="button_share">Share this text</string>
+</resources>
